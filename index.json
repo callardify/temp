@@ -1,0 +1,390 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://callardify.github.io/temp/index.json",
+    "type": "Collection",
+    "label": {
+        "none": [
+            "Eliza Left Us"
+        ]
+    },
+    "thumbnail": [
+        {
+            "id": "https://callardify.github.io/temp/https://www.catalogue.wyjs.org.uk/record.aspx?src=calmview.catalog&id=wyas4971%2f7%2f1%2f5%2f1%2f1/0d6fd62aa24debce69f28e1b6cd00afa/full/193,300/0/default.jpg",
+            "type": "Image",
+            "format": "image/jpeg",
+            "height": 300,
+            "width": 193
+        }
+    ],
+    "items": [
+        {
+            "id": "https://callardify.github.io/temp/https://www.catalogue.wyjs.org.uk/record.aspx?src=calmview.catalog&id=wyas4971%2f7%2f1%2f5%2f1%2f1/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "WYC:1525/7/1/5/1/0001"
+                ]
+            }
+        },
+        {
+            "id": "https://callardify.github.io/temp/https://www.catalogue.wyjs.org.uk/record.aspx?src=calmview.catalog&id=wyas4971%2f7%2f1%2f5%2f1%2f1/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "WYC:1525/7/1/5/1/0001"
+                ]
+            }
+        },
+        {
+            "id": "https://callardify.github.io/temp/https://www.catalogue.wyjs.org.uk/record.aspx?src=calmview.catalog&id=wyas4971%2f7%2f1%2f5%2f1%2f1/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "WYC:1525/7/1/5/1/0001"
+                ]
+            }
+        },
+        {
+            "id": "https://callardify.github.io/temp/https://www.catalogue.wyjs.org.uk/record.aspx?src=calmview.catalog&id=wyas4971%2f7%2f1%2f5%2f1%2f1/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "WYC:1525/7/1/5/1/0001"
+                ]
+            }
+        },
+        {
+            "id": "https://callardify.github.io/temp/https://www.catalogue.wyjs.org.uk/record.aspx?src=calmview.catalog&id=wyas4971%2f7%2f1%2f5%2f1%2f1/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "WYC:1525/7/1/5/1/0001"
+                ]
+            }
+        },
+        {
+            "id": "https://callardify.github.io/temp/https://www.catalogue.wyjs.org.uk/record.aspx?src=calmview.catalog&id=wyas4971%2f7%2f1%2f5%2f1%2f1/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "WYC:1525/7/1/5/1/0001"
+                ]
+            }
+        },
+        {
+            "id": "https://callardify.github.io/temp/https://www.catalogue.wyjs.org.uk/record.aspx?src=calmview.catalog&id=wyas4971%2f7%2f1%2f5%2f1%2f1/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "WYC:1525/7/1/5/1/0001"
+                ]
+            }
+        },
+        {
+            "id": "https://callardify.github.io/temp/https://www.catalogue.wyjs.org.uk/record.aspx?src=calmview.catalog&id=wyas4971%2f7%2f1%2f5%2f1%2f1/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "WYC:1525/7/1/5/1/0001"
+                ]
+            }
+        },
+        {
+            "id": "https://callardify.github.io/temp/https://www.catalogue.wyjs.org.uk/record.aspx?src=calmview.catalog&id=wyas4971%2f7%2f1%2f5%2f1%2f1/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "WYC:1525/7/1/5/1/0001"
+                ]
+            }
+        },
+        {
+            "id": "https://callardify.github.io/temp/https://www.catalogue.wyjs.org.uk/record.aspx?src=calmview.catalog&id=wyas4971%2f7%2f1%2f5%2f1%2f1/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "WYC:1525/7/1/5/1/0001"
+                ]
+            }
+        },
+        {
+            "id": "https://callardify.github.io/temp/https://www.catalogue.wyjs.org.uk/record.aspx?src=calmview.catalog&id=wyas4971%2f7%2f1%2f5%2f1%2f1/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "WYC:1525/7/1/5/1/0001"
+                ]
+            }
+        },
+        {
+            "id": "https://callardify.github.io/temp/https://www.catalogue.wyjs.org.uk/record.aspx?src=calmview.catalog&id=wyas4971%2f7%2f1%2f5%2f1%2f1/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "WYC:1525/7/1/5/1/0001"
+                ]
+            }
+        },
+        {
+            "id": "https://callardify.github.io/temp/https://www.catalogue.wyjs.org.uk/record.aspx?src=calmview.catalog&id=wyas4971%2f7%2f1%2f5%2f1%2f1/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "WYC:1525/7/1/5/1/0001"
+                ]
+            }
+        },
+        {
+            "id": "https://callardify.github.io/temp/https://www.catalogue.wyjs.org.uk/record.aspx?src=calmview.catalog&id=wyas4971%2f7%2f1%2f5%2f1%2f1/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "WYC:1525/7/1/5/1/0001"
+                ]
+            }
+        },
+        {
+            "id": "https://callardify.github.io/temp/https://www.catalogue.wyjs.org.uk/record.aspx?src=calmview.catalog&id=wyas4971%2f7%2f1%2f5%2f1%2f1/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "WYC:1525/7/1/5/1/0001"
+                ]
+            }
+        },
+        {
+            "id": "https://callardify.github.io/temp/https://www.catalogue.wyjs.org.uk/record.aspx?src=calmview.catalog&id=wyas4971%2f7%2f1%2f5%2f1%2f1/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "WYC:1525/7/1/5/1/0001"
+                ]
+            }
+        },
+        {
+            "id": "https://callardify.github.io/temp/https://www.catalogue.wyjs.org.uk/record.aspx?src=calmview.catalog&id=wyas4971%2f7%2f1%2f5%2f1%2f1/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "WYC:1525/7/1/5/1/0001"
+                ]
+            }
+        },
+        {
+            "id": "https://callardify.github.io/temp/https://www.catalogue.wyjs.org.uk/record.aspx?src=calmview.catalog&id=wyas4971%2f7%2f1%2f5%2f1%2f1/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "WYC:1525/7/1/5/1/0001"
+                ]
+            }
+        },
+        {
+            "id": "https://callardify.github.io/temp/https://www.catalogue.wyjs.org.uk/record.aspx?src=calmview.catalog&id=wyas4971%2f7%2f1%2f5%2f1%2f1/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "WYC:1525/7/1/5/1/0001"
+                ]
+            }
+        },
+        {
+            "id": "https://callardify.github.io/temp/https://www.catalogue.wyjs.org.uk/record.aspx?src=calmview.catalog&id=wyas4971%2f7%2f1%2f5%2f1%2f1/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "WYC:1525/7/1/5/1/0001"
+                ]
+            }
+        },
+        {
+            "id": "https://callardify.github.io/temp/https://www.catalogue.wyjs.org.uk/record.aspx?src=calmview.catalog&id=wyas4971%2f7%2f1%2f5%2f1%2f1/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "WYC:1525/7/1/5/1/0001"
+                ]
+            }
+        },
+        {
+            "id": "https://callardify.github.io/temp/https://www.catalogue.wyjs.org.uk/record.aspx?src=calmview.catalog&id=wyas4971%2f7%2f1%2f5%2f1%2f1/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "WYC:1525/7/1/5/1/0001"
+                ]
+            }
+        },
+        {
+            "id": "https://callardify.github.io/temp/https://www.catalogue.wyjs.org.uk/record.aspx?src=calmview.catalog&id=wyas4971%2f7%2f1%2f5%2f1%2f1/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "WYC:1525/7/1/5/1/0001"
+                ]
+            }
+        },
+        {
+            "id": "https://callardify.github.io/temp/https://www.catalogue.wyjs.org.uk/record.aspx?src=calmview.catalog&id=wyas4971%2f7%2f1%2f5%2f1%2f1/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "WYC:1525/7/1/5/1/0001"
+                ]
+            }
+        },
+        {
+            "id": "https://callardify.github.io/temp/https://www.catalogue.wyjs.org.uk/record.aspx?src=calmview.catalog&id=wyas4971%2f7%2f1%2f5%2f1%2f1/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "WYC:1525/7/1/5/1/0001"
+                ]
+            }
+        },
+        {
+            "id": "https://callardify.github.io/temp/https://www.catalogue.wyjs.org.uk/record.aspx?src=calmview.catalog&id=wyas4971%2f7%2f1%2f5%2f1%2f1/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "WYC:1525/7/1/5/1/0001"
+                ]
+            }
+        },
+        {
+            "id": "https://callardify.github.io/temp/https://www.catalogue.wyjs.org.uk/record.aspx?src=calmview.catalog&id=wyas4971%2f7%2f1%2f5%2f1%2f1/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "WYC:1525/7/1/5/1/0001"
+                ]
+            }
+        },
+        {
+            "id": "https://callardify.github.io/temp/https://www.catalogue.wyjs.org.uk/record.aspx?src=calmview.catalog&id=wyas4971%2f7%2f1%2f5%2f1%2f1/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "WYC:1525/7/1/5/1/0001"
+                ]
+            }
+        },
+        {
+            "id": "https://callardify.github.io/temp/https://www.catalogue.wyjs.org.uk/record.aspx?src=calmview.catalog&id=wyas4971%2f7%2f1%2f5%2f1%2f1/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "WYC:1525/7/1/5/1/0001"
+                ]
+            }
+        },
+        {
+            "id": "https://callardify.github.io/temp/https://www.catalogue.wyjs.org.uk/record.aspx?src=calmview.catalog&id=wyas4971%2f7%2f1%2f5%2f1%2f1/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "WYC:1525/7/1/5/1/0001"
+                ]
+            }
+        },
+        {
+            "id": "https://callardify.github.io/temp/https://www.catalogue.wyjs.org.uk/record.aspx?src=calmview.catalog&id=wyas4971%2f7%2f1%2f5%2f1%2f1/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "WYC:1525/7/1/5/1/0001"
+                ]
+            }
+        },
+        {
+            "id": "https://callardify.github.io/temp/https://www.catalogue.wyjs.org.uk/record.aspx?src=calmview.catalog&id=wyas4971%2f7%2f1%2f5%2f1%2f1/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "WYC:1525/7/1/5/1/0001"
+                ]
+            }
+        },
+        {
+            "id": "https://callardify.github.io/temp/https://www.catalogue.wyjs.org.uk/record.aspx?src=calmview.catalog&id=wyas4971%2f7%2f1%2f5%2f1%2f1/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "WYC:1525/7/1/5/1/0001"
+                ]
+            }
+        },
+        {
+            "id": "https://callardify.github.io/temp/https://www.catalogue.wyjs.org.uk/record.aspx?src=calmview.catalog&id=wyas4971%2f7%2f1%2f5%2f1%2f1/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "WYC:1525/7/1/5/1/0001"
+                ]
+            }
+        },
+        {
+            "id": "https://callardify.github.io/temp/https://www.catalogue.wyjs.org.uk/record.aspx?src=calmview.catalog&id=wyas4971%2f7%2f1%2f5%2f1%2f1/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "WYC:1525/7/1/5/1/0001"
+                ]
+            }
+        },
+        {
+            "id": "https://callardify.github.io/temp/https://www.catalogue.wyjs.org.uk/record.aspx?src=calmview.catalog&id=wyas4971%2f7%2f1%2f5%2f1%2f1/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "WYC:1525/7/1/5/1/0001"
+                ]
+            }
+        },
+        {
+            "id": "https://callardify.github.io/temp/https://www.catalogue.wyjs.org.uk/record.aspx?src=calmview.catalog&id=wyas4971%2f7%2f1%2f5%2f1%2f1/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "WYC:1525/7/1/5/1/0001"
+                ]
+            }
+        },
+        {
+            "id": "https://callardify.github.io/temp/https://www.catalogue.wyjs.org.uk/record.aspx?src=calmview.catalog&id=wyas4971%2f7%2f1%2f5%2f1%2f1/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "WYC:1525/7/1/5/1/0001"
+                ]
+            }
+        },
+        {
+            "id": "https://callardify.github.io/temp/https://www.catalogue.wyjs.org.uk/record.aspx?src=calmview.catalog&id=wyas4971%2f7%2f1%2f5%2f1%2f1/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "WYC:1525/7/1/5/1/0001"
+                ]
+            }
+        },
+        {
+            "id": "https://callardify.github.io/temp/https://www.catalogue.wyjs.org.uk/record.aspx?src=calmview.catalog&id=wyas4971%2f7%2f1%2f5%2f1%2f1/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "WYC:1525/7/1/5/1/0001"
+                ]
+            }
+        },
+        {
+            "id": "https://callardify.github.io/temp/https://www.catalogue.wyjs.org.uk/record.aspx?src=calmview.catalog&id=wyas4971%2f7%2f1%2f5%2f1%2f1/manifest.json",
+            "type": "Manifest",
+            "label": {
+                "none": [
+                    "WYC:1525/7/1/5/1/0001"
+                ]
+            }
+        }
+    ]
+}
